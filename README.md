@@ -22,9 +22,13 @@ This project demonstrates my **Excel data analytics**, **dashboard design**, and
 Here’s a snapshot of the Excel dashboard:
 
 ![Army Diversity Dashboard Preview](<img width="1872" height="813" alt="Image" src="https://github.com/user-attachments/assets/8b5763dc-0fc8-410b-a41b-b9529012b619" />
+
+# Pivot Tables and Charts Snapshots
 <img width="1666" height="802" alt="Image" src="https://github.com/user-attachments/assets/5ce0ceac-6a8c-4075-8183-bbd571e1328e" />
 <img width="1778" height="547" alt="Image" src="https://github.com/user-attachments/assets/497fc3c1-dafe-4fee-8d84-d69ac08863e6" />
 <img width="1858" height="795" alt="Image" src="https://github.com/user-attachments/assets/31221287-ccb1-40bf-a788-f64d4489fc4f" /> )
+
+
 
 [Download Excel Workbook](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fkofithesoldier%2FArmy-Diversity-2012-2024-%2Frefs%2Fheads%2Fmain%2FArmy%2520Diversity.xlsx&wdOrigin=BROWSELINK.xlsx)
 
@@ -106,7 +110,7 @@ It **should not be used for decision-making or policy interpretation**, and I **
 ## 📬 Contact
 If you'd like to collaborate or discuss data analytics, feel free to connect:  
 📧 **Email:** kofiobengnti@gmail.com  
-🌐 **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/kofi-obeng-nti-aa3884140)
+🌐 **LinkedIn:** www.linkedin.com/in/kofi-obeng-nti-aa3884140
 
 ---
 

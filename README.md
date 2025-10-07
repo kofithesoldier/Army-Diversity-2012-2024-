@@ -26,6 +26,8 @@ Here’s a snapshot of the Excel dashboard:
 <img width="1778" height="547" alt="Image" src="https://github.com/user-attachments/assets/497fc3c1-dafe-4fee-8d84-d69ac08863e6" />
 <img width="1858" height="795" alt="Image" src="https://github.com/user-attachments/assets/31221287-ccb1-40bf-a788-f64d4489fc4f" /> )
 
+![Dashboard Key Insights Overview](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fkofithesoldier%2FArmy-Diversity-2012-2024-%2Frefs%2Fheads%2Fmain%2FArmy%2520Diversity.xlsx&wdOrigin=BROWSELINK)
+
 
 
 

@@ -26,10 +26,7 @@ Here’s a snapshot of the Excel dashboard:
 <img width="1778" height="547" alt="Image" src="https://github.com/user-attachments/assets/497fc3c1-dafe-4fee-8d84-d69ac08863e6" />
 <img width="1858" height="795" alt="Image" src="https://github.com/user-attachments/assets/31221287-ccb1-40bf-a788-f64d4489fc4f" /> )
 
-![Overall Ethnic Minority Proportion](dashboard_overall_ethnic_minority_proportion.png)
-![Ethnic Minority Composition](dashboard_ethnic_minority_composition.png)
-![Joiners and Leavers by Ethnicity](dashboard_joiners_leavers_by_ethnicity.png)
-![Dashboard Key Insights Overview](dashboard_key_insights_overview.png)
+
 
 
 

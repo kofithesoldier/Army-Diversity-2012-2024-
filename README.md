@@ -21,6 +21,11 @@ This project demonstrates my **Excel data analytics**, **dashboard design**, and
 ## 📸 Dashboard Preview
 Here’s a snapshot of the Excel dashboard:
 
+![Army Diversity Dashboard Preview](<img width="1872" height="813" alt="Image" src="https://github.com/user-attachments/assets/8b5763dc-0fc8-410b-a41b-b9529012b619" />
+<img width="1666" height="802" alt="Image" src="https://github.com/user-attachments/assets/5ce0ceac-6a8c-4075-8183-bbd571e1328e" />
+<img width="1778" height="547" alt="Image" src="https://github.com/user-attachments/assets/497fc3c1-dafe-4fee-8d84-d69ac08863e6" />
+<img width="1858" height="795" alt="Image" src="https://github.com/user-attachments/assets/31221287-ccb1-40bf-a788-f64d4489fc4f" /> )
+
 ![Overall Ethnic Minority Proportion](dashboard_overall_ethnic_minority_proportion.png)
 ![Ethnic Minority Composition](dashboard_ethnic_minority_composition.png)
 ![Joiners and Leavers by Ethnicity](dashboard_joiners_leavers_by_ethnicity.png)
